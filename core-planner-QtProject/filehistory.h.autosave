@@ -1,0 +1,15 @@
+#ifndef FILEHISTORY_H
+#define FILEHISTORY_H
+#include <QString>
+
+class FileHistory
+{
+    QString name;
+    QString way;
+    Q
+public:
+    FileHistory();
+    ~FileHistory();
+};
+
+#endif // FILEHISTORY_H

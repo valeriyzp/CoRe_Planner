@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/cursors">
+        <file alias="ResizeD1">img/core-cursors/ResizeD1.png</file>
+        <file alias="ResizeD2">img/core-cursors/ResizeD2.png</file>
+        <file alias="ResizeH">img/core-cursors/ResizeH.png</file>
+        <file alias="ResizeV">img/core-cursors/ResizeV.png</file>
+        <file alias="Rotation">img/core-cursors/Rotation.png</file>
+    </qresource>
+</RCC>

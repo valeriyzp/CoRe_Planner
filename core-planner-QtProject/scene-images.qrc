@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/scene">
+        <file alias="bath">img/scene-images/bath.png</file>
+        <file alias="bed-double">img/scene-images/bed-double.png</file>
+        <file alias="bedside">img/scene-images/bedside.png</file>
+        <file alias="bed-single">img/scene-images/bed-single.png</file>
+        <file alias="car">img/scene-images/car.png</file>
+        <file alias="chair">img/scene-images/chair.png</file>
+        <file alias="oven">img/scene-images/oven.png</file>
+        <file alias="plant">img/scene-images/plant.png</file>
+        <file alias="sofa">img/scene-images/sofa.png</file>
+        <file alias="table-dining">img/scene-images/table-dining.png</file>
+        <file alias="table-glass">img/scene-images/table-glass.png</file>
+        <file alias="table-rect">img/scene-images/table-rect.png</file>
+        <file alias="table-wood">img/scene-images/table-wood.png</file>
+        <file alias="table-work">img/scene-images/table-work.png</file>
+        <file alias="toilet">img/scene-images/toilet.png</file>
+    </qresource>
+</RCC>

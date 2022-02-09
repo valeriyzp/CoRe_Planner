@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file alias="about">img/core-images/bg/about.png</file>
+        <file alias="splash">img/core-images/bg/splash.png</file>
+    </qresource>
+    <qresource prefix="/list/build">
+        <file alias="door">img/core-images/list/build/door.png</file>
+        <file alias="door-garage">img/core-images/list/build/door-garage.png</file>
+        <file alias="window">img/core-images/list/build/window.png</file>
+        <file alias="wall">img/core-images/list/build/wall.png</file>
+    </qresource>
+    <qresource prefix="/list/decor">
+        <file alias="car">img/core-images/list/decor/car.png</file>
+        <file alias="plant">img/core-images/list/decor/plant.png</file>
+    </qresource>
+    <qresource prefix="/list/furniture">
+        <file alias="bath">img/core-images/list/furniture/bath.png</file>
+        <file alias="bed-double">img/core-images/list/furniture/bed-double.png</file>
+        <file alias="bedside">img/core-images/list/furniture/bedside.png</file>
+        <file alias="bed-single">img/core-images/list/furniture/bed-single.png</file>
+        <file alias="chair">img/core-images/list/furniture/chair.png</file>
+        <file alias="oven">img/core-images/list/furniture/oven.png</file>
+        <file alias="sofa">img/core-images/list/furniture/sofa.png</file>
+        <file alias="table-dining">img/core-images/list/furniture/table-dining.png</file>
+        <file alias="table-glass">img/core-images/list/furniture/table-glass.png</file>
+        <file alias="table-rect">img/core-images/list/furniture/table-rect.png</file>
+        <file alias="table-wood">img/core-images/list/furniture/table-wood.png</file>
+        <file alias="table-work">img/core-images/list/furniture/table-work.png</file>
+        <file alias="toilet">img/core-images/list/furniture/toilet.png</file>
+    </qresource>
+    <qresource prefix="/menu">
+        <file alias="home">img/core-images/menu/home.png</file>
+        <file alias="home-1">img/core-images/menu/home-1.png</file>
+        <file alias="icon.ico">img/core-images/menu/icon.ico</file>
+        <file alias="icon.png">img/core-images/menu/icon.png</file>
+        <file alias="new">img/core-images/menu/new.png</file>
+        <file alias="open">img/core-images/menu/open.png</file>
+        <file alias="save">img/core-images/menu/save.png</file>
+        <file alias="village">img/core-images/menu/village.png</file>
+        <file alias="cube">img/core-images/menu/cube.ico</file>
+    </qresource>
+    <qresource prefix="/tool-tabs">
+        <file alias="decor">img/core-images/tool-tabs/decor.png</file>
+        <file alias="furniture">img/core-images/tool-tabs/furniture.png</file>
+        <file alias="build">img/core-images/tool-tabs/build.png</file>
+    </qresource>
+</RCC>
